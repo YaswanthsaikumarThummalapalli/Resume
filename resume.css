@@ -14,12 +14,13 @@ body {
 }
 
 .box {
-  background-color: none;
-  border: 8px solid #000;
-  height: fit-content;
-  width: fit-content;
-  padding: 1rem;
-  box-sizing: border-box;
+  width: 1000px;
+  border: 5px solid #444;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0.5rem;
 }
 
 .name {
@@ -40,6 +41,7 @@ body {
   padding: 0;
   display: flex;
   flex-wrap: wrap;
+  margin-left: 15rem;
 }
 
 .html li {

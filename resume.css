@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap") * {
+  margin: 0;
+  padding: 0;
+  font-family: "Arial", sans-serif;
+  background-color: #fff;
+}
+
+body {
+  font-family: "Arial", sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+.box {
+  background-color: none;
+  border: 8px solid #000;
+  height: fit-content;
+  width: fit-content;
+  padding: 1rem;
+  box-sizing: border-box;
+}
+
+.name {
+  font-size: 1.5rem;
+}
+
+.socials {
+  text-align: end;
+}
+
+.skills {
+  text-align: center;
+  color: royalblue;
+}
+
+.html ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.html li {
+  background-color: #4285f4;
+  color: #fff;
+  border-radius: 5px;
+  padding: 5px 10px;
+  margin: 5px;
+}
+
+.skillset {
+  color: #000;
+  text-align: center;
+}
+
+.workexperience {
+  text-align: center;
+  color: royalblue;
+}
+
+.exp {
+  text-align: end;
+}
+
+.moviduexp {
+  text-align: end;
+}
+
+.education {
+  text-align: center;
+  color: royalblue;
+}
+
+.srmdescription {
+  color: goldenrod;
+}
+
+.interdecription {
+  color: goldenrod;
+}
+
+.sscdescription {
+  color: goldenrod;
+}
